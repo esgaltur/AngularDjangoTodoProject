@@ -6,7 +6,7 @@
 * Authentication: JWT by Django JWT
 ---
 # Versions
-##Frontend
+## Frontend
 * Angular CLI: 10.0.0
 * Node: 12.18.1
 * OS: win32 x64
